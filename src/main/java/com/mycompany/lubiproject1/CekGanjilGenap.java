@@ -17,9 +17,9 @@ public class CekGanjilGenap {
         angka = scan.nextInt();
         
         if(angka % 2 ==0){
-            System.out.println(angka + "adalah bilangan GENAP");
+            System.out.println(angka + "adalah bilangan GENAP ");
         }else{
-            System.out.println(angka + "adalah bilangan GANJIL");
+            System.out.println(angka + "adalah bilangan GANJIL ");
         }
         scan.close();
     }
